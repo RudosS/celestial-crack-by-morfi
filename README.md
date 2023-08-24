@@ -17,4 +17,4 @@ EDITION TOKEN: CE-LAUN4-1.16.5
 
 7. Сохраните это при помощи ctrl + s.
 8. Заходим в папку: dlmine
-9. Запускаем "dlcrft.bat"
+9. Запускаем "bypass.exe"
